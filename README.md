@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi here 👋
 
 <!--
 **MyFoolish/MyFoolish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-你没有如期归来，而这正是离别的意义
+你没有如期归来，而这正是离别的意义。
